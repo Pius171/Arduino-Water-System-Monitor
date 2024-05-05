@@ -10,6 +10,6 @@
 
 /* ESP8266 ESP32*/
 #if defined(BOARD_HAS_SECRET_KEY)
-  #define SECRET_DEVICE_KEY "kL965d4ZlGUOs4?#CyCpzb?Kf"
+  #define SECRET_DEVICE_KEY ""
 #endif
 
