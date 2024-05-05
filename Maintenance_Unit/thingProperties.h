@@ -4,7 +4,7 @@
 
 
 #if defined(BOARD_HAS_SECRET_KEY)
-  #define BOARD_ID "3e57ac74-b52a-450a-b183-304c4e168481"
+  #define BOARD_ID ""
 #endif
 
 String pump_1;
